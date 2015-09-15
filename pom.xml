@@ -51,6 +51,17 @@
             <artifactId>mysql-connector-java</artifactId>
             <version>5.1.6</version>
         </dependency>
+        <dependency>
+            <groupId>Cat</groupId>
+            <artifactId>mysql-connector-bin-java</artifactId>
+            <version>5.1.6</version>
+            <classifier>bin</classifier>
+        </dependency>
+        <dependency>
+            <groupId>Cat</groupId>
+            <artifactId>proxool-cglib</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
     <build>
         <defaultGoal>compile</defaultGoal>

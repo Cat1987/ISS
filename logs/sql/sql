@@ -42,3 +42,36 @@
 2015-09-06 23:20:44 [ INFO]-[org.logicalcobwebs.proxool.issdb] Shutting down 'issdb' pool immediately [Shutdown Hook]
 2015-09-06 23:20:44 [ INFO]-[org.logicalcobwebs.proxool.PrototyperController] Stopping Prototyper thread
 2015-09-06 23:20:44 [ INFO]-[org.logicalcobwebs.proxool.HouseKeeperController] Stopping HouseKeeper thread
+2015-09-15 23:18:42 [ INFO]-[com.rc.isportssearch.init.InforSearchInit] log is Complete ! 
+2015-09-15 23:18:42 [ INFO]-[org.logicalcobwebs.proxool.ProxoolFacade] Proxool 0.9.1 (23-Aug-2008 11:10)
+2015-09-15 23:19:26 [ INFO]-[com.rc.isportssearch.init.InforSearchInit] log is Complete ! 
+2015-09-15 23:19:27 [ INFO]-[org.logicalcobwebs.proxool.ProxoolFacade] Proxool 0.9.1 (23-Aug-2008 11:10)
+2015-09-15 23:23:18 [ INFO]-[com.rc.isportssearch.init.InforSearchInit] log is Complete ! 
+2015-09-15 23:23:18 [ INFO]-[org.logicalcobwebs.proxool.ProxoolFacade] Proxool 0.9.1 (23-Aug-2008 11:10)
+2015-09-15 23:24:03 [ INFO]-[com.rc.isportssearch.init.InforSearchInit] log is Complete ! 
+2015-09-15 23:24:09 [ INFO]-[org.logicalcobwebs.proxool.ProxoolFacade] Proxool 0.9.1 (23-Aug-2008 11:10)
+2015-09-15 23:27:07 [ INFO]-[com.rc.isportssearch.init.InforSearchInit] log is Complete ! 
+2015-09-15 23:27:07 [ INFO]-[org.logicalcobwebs.proxool.ProxoolFacade] Proxool 0.9.1 (23-Aug-2008 11:10)
+2015-09-15 23:29:06 [ INFO]-[com.rc.isportssearch.init.InforSearchInit] log is Complete ! 
+2015-09-15 23:29:07 [ INFO]-[org.logicalcobwebs.proxool.ProxoolFacade] Proxool 0.9.1 (23-Aug-2008 11:10)
+2015-09-15 23:31:00 [ INFO]-[com.rc.isportssearch.init.InforSearchInit] log is Complete ! 
+2015-09-15 23:31:00 [ INFO]-[org.logicalcobwebs.proxool.ProxoolFacade] Proxool 0.9.1 (23-Aug-2008 11:10)
+2015-09-15 23:32:42 [ INFO]-[com.rc.isportssearch.init.InforSearchInit] log is Complete ! 
+2015-09-15 23:32:42 [ INFO]-[org.logicalcobwebs.proxool.ProxoolFacade] Proxool 0.9.1 (23-Aug-2008 11:10)
+2015-09-15 23:33:56 [ INFO]-[com.rc.isportssearch.init.InforSearchInit] log is Complete ! 
+2015-09-15 23:33:56 [ INFO]-[org.logicalcobwebs.proxool.ProxoolFacade] Proxool 0.9.1 (23-Aug-2008 11:10)
+2015-09-15 23:47:47 [ INFO]-[com.rc.isportssearch.init.InforSearchInit] log is Complete ! 
+2015-09-15 23:47:47 [ INFO]-[org.logicalcobwebs.proxool.ProxoolFacade] Proxool 0.9.1 (23-Aug-2008 11:10)
+2015-09-15 23:48:04 [ INFO]-[com.rc.isportssearch.init.InforSearchInit] log is Complete ! 
+2015-09-15 23:48:04 [ INFO]-[org.logicalcobwebs.proxool.ProxoolFacade] Proxool 0.9.1 (23-Aug-2008 11:10)
+2015-09-15 23:50:07 [ INFO]-[com.rc.isportssearch.init.InforSearchInit] log is Complete ! 
+2015-09-15 23:50:07 [ INFO]-[org.logicalcobwebs.proxool.ProxoolFacade] Proxool 0.9.1 (23-Aug-2008 11:10)
+2015-09-15 23:50:07 [ INFO]-[org.logicalcobwebs.proxool.issdb] Shutting down 'issdb' pool immediately [Shutdown Hook]
+2015-09-15 23:50:07 [ INFO]-[org.logicalcobwebs.proxool.ConnectionPool] Waiting until Tue Sep 15 23:50:07 CST 2015 for all connections to become inactive (active count is 1).
+2015-09-15 23:50:07 [ INFO]-[org.logicalcobwebs.proxool.PrototyperController] Stopping Prototyper thread
+2015-09-15 23:50:07 [ INFO]-[org.logicalcobwebs.proxool.HouseKeeperController] Stopping HouseKeeper thread
+2015-09-15 23:54:19 [ INFO]-[com.rc.isportssearch.init.InforSearchInit] log is Complete ! 
+2015-09-15 23:54:19 [ INFO]-[org.logicalcobwebs.proxool.ProxoolFacade] Proxool 0.9.1 (23-Aug-2008 11:10)
+2015-09-15 23:54:20 [ INFO]-[org.logicalcobwebs.proxool.issdb] Shutting down 'issdb' pool immediately [Shutdown Hook]
+2015-09-15 23:54:20 [ INFO]-[org.logicalcobwebs.proxool.PrototyperController] Stopping Prototyper thread
+2015-09-15 23:54:20 [ INFO]-[org.logicalcobwebs.proxool.HouseKeeperController] Stopping HouseKeeper thread
