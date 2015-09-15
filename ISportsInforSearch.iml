@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://D:/Desktop/inforSearch/lib/slf4j-api-1.6.4.jar!/" />
+    <libelement value="jar://D:/Desktop/inforSearch/lib/slf4j-log4j12-1.6.4.jar!/" />
+    <libelement value="jar://D:/Desktop/inforSearch/lib/commons-logging-1.0.4.jar!/" />
+    <libelement value="jar://D:/Desktop/inforSearch/lib/jsoup-1.8.2.jar!/" />
+    <libelement value="jar://D:/Desktop/inforSearch/lib/log4j-1.2.16.jar!/" />
+    <libelement value="jar://D:/Desktop/inforSearch/lib/proxool-0.9.1.jar!/" />
+    <libelement value="jar://D:/Desktop/inforSearch/lib/proxool-cglib.jar!/" />
+    <libelement value="jar://D:/Desktop/inforSearch/lib/mysql-connector-java-5.1.6-bin.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.0.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Desktop/inforSearch/lib/commons-logging-1.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsoup-1.8.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Desktop/inforSearch/lib/jsoup-1.8.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.16.jar">
+        <CLASSES>
+          <root url="jar://D:/Desktop/inforSearch/lib/log4j-1.2.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="proxool-0.9.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Desktop/inforSearch/lib/proxool-0.9.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="proxool-cglib.jar">
+        <CLASSES>
+          <root url="jar://D:/Desktop/inforSearch/lib/proxool-cglib.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-5.1.6-bin.jar">
+        <CLASSES>
+          <root url="jar://D:/Desktop/inforSearch/lib/mysql-connector-java-5.1.6-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Maven: fakepath:jsoup:1.8.2" level="project" />
+    <orderEntry type="library" name="Maven: Cat:slf4j-log4j12:1.6.4" level="project" />
+    <orderEntry type="library" name="Maven: Cat:slf4j-api:1.6.4" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.16" level="project" />
+    <orderEntry type="library" name="Maven: Cat:proxool:0.9.1" level="project" />
+    <orderEntry type="library" name="Maven: fakepath:mysql-connector-java:5.1.6" level="project" />
+  </component>
+</module>
