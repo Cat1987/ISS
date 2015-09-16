@@ -96,9 +96,10 @@ public class BasketBallSearch extends Search
 	{
 		List<Map<String,String>> list = new ArrayList<Map<String,String>>();
 		Document doc = null;
-		while (newURLSet.iterator().hasNext())
+		Iterator<String> it = newURLSet.iterator();
+		while (it.hasNext())
 		{
-			String url = newURLSet.iterator().next();
+			String url = it.next();
 			doc = getDocument(url);
 			// 做逻辑分组
 			Elements links = doc.getElementsByClass(BASKETBALL_VIDEO_CLASS);

@@ -31,6 +31,7 @@ public class ISSApp
 		Search bbs =  new BasketBallSearch();
 		DealDateService ddsTest = new DealDateServiceByxu();
 		ddsTest.insertQQNews(bbs.searchNews().get(0));
+		bbs.searchVideo();
 
 	}
 
