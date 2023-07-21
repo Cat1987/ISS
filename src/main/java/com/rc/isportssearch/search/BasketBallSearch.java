@@ -17,6 +17,9 @@ import com.rc.isportssearch.Util.TimeUtil;
 import com.rc.isportssearch.memload.Constant;
 import com.rc.isportssearch.memload.DateRex;
 
+/**
+ * test
+ */
 public class BasketBallSearch extends Search
 {
 	private static final String BASKETBALL_VIDEO_CLASS = "_videolink";
